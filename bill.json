@@ -1,0 +1,14 @@
+[
+    {
+        "Product ID": "1",
+        "Product Name": "Slipper",
+        "Product Price": 150,
+        "Quantity": 20
+    },
+    {
+        "Product ID": "2",
+        "Product Name": "Pen",
+        "Product Price": 10,
+        "Quantity": 3
+    }
+]
